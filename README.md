@@ -1,2 +1,1 @@
-# cs468-19S8W1
-CS468
+# CS468 Advanced Unix - Spring 8W1 2019
